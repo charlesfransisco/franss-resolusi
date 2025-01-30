@@ -1,2 +1,2 @@
 # franss-resolusi
-Repository untuk menyimoan rencana kedepannya
+Repository untuk menyimpan rencana kedepannya
